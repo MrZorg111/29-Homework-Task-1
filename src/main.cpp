@@ -138,5 +138,6 @@ int main() {
 	d.getDogTalents();
 	std::cout << "And he gives voice!" << std::endl;
 	d.getVoice();
+
 	return 0;
 }
