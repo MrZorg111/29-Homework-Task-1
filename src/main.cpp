@@ -127,7 +127,6 @@ public:
  };*/
 
 int main() {
-	setlocale(LC_ALL, "rus");
 	std::string pets_talents;
 	Dog d("Sharick");
 	
